@@ -18,12 +18,12 @@
 
 const fs = require('fs')
 
-global.owner = "6283879020370" //owner number
+global.owner = "6285766450735" //owner number
 global.footer = "_Lorenzxz ZcoderX_" //footer section
 global.status = true //"self/public" section of the bot
 global.telegram = {
-token: '',
-ownerid: ''
+token: '7884130330:AAH5bGqJ8B1W_Y7KgwYBcL8FNGa3yTC2nfc',
+ownerid: '7721854443'
 } //token and owner id for telegram bots, for debugging not filled no problem, do not confuse this token with the one in telegram.json
 global.discord = {
 token: ''
